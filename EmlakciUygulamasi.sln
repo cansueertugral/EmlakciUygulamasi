@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmlakciUygulamasi", "EmlakciUygulamasi\EmlakciUygulamasi.csproj", "{D4EF06B9-47E2-4FD6-8710-7C245F33D768}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmlakciLib", "EmlakciLib\EmlakciLib.csproj", "{FAA776FC-3C4C-4AFF-8DAD-2C26583BA388}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4EF06B9-47E2-4FD6-8710-7C245F33D768}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4EF06B9-47E2-4FD6-8710-7C245F33D768}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4EF06B9-47E2-4FD6-8710-7C245F33D768}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4EF06B9-47E2-4FD6-8710-7C245F33D768}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAA776FC-3C4C-4AFF-8DAD-2C26583BA388}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAA776FC-3C4C-4AFF-8DAD-2C26583BA388}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAA776FC-3C4C-4AFF-8DAD-2C26583BA388}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAA776FC-3C4C-4AFF-8DAD-2C26583BA388}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EB00581-9049-4265-AFE5-77CBCEA318E3}
+	EndGlobalSection
+EndGlobal
